@@ -1,0 +1,8 @@
+{
+  "name": "Lingo English Learning App",
+  "description": "Lingo English learning application with a smart AI study assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
